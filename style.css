@@ -10,6 +10,12 @@ body {
     display: flex;
 }
 
+hr {
+    width: 60vw;
+    max-width: 550px;
+    color: rgb(194, 3, 3);
+}
+
 li {
     list-style: none;
     padding: 3% 0;
@@ -94,6 +100,7 @@ main {
     max-width: 500px;
     min-width: 320px;
     min-height: 260px;
+    overflow-wrap: break-word;
 }
 
 #footer-p {
