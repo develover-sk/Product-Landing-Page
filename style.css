@@ -103,7 +103,7 @@ main {
     max-width: 500px;
     min-width: 320px;
     min-height: 260px;
-    overflow: scroll;
+    overflow: auto;
 }
 
 #footer-p {
