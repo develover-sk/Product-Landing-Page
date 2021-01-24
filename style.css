@@ -36,6 +36,11 @@ li {
 
 #header-img {
     width: 300px;
+    margin-bottom: 0;
+}
+
+#nav-bar {
+    margin: 0;
 }
 
 .nav-bar {
@@ -45,6 +50,7 @@ li {
     align-items: center;
     align-content: center;
     margin-top: 0;
+    margin-bottom: 0;
 }
 
 main {
