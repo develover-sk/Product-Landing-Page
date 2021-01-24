@@ -29,6 +29,7 @@ li {
     width: 100%;
     top: 0;
     left: 0;
+    z-index: 1;
     background-color: #FAEBD7;
 }
 
@@ -101,7 +102,7 @@ main {
     max-width: 500px;
     min-width: 320px;
     min-height: 260px;
-    overflow-wrap: break-word;
+    overflow: scroll;
 }
 
 #footer-p {
