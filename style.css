@@ -302,9 +302,9 @@ b {
     }
     #footer {
         flex-direction: row;
-        align-content: right;
+        align-content: center;
         justify-content: flex-end;
-        align-items: right;
+        align-items: center;
     }
     #footer-div {
         text-align: right;
